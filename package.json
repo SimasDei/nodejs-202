@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-202",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimasDei/nodejs-202.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimasDei/nodejs-202/issues"
+  },
+  "homepage": "https://github.com/SimasDei/nodejs-202#readme"
+}
